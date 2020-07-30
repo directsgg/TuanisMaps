@@ -2,5 +2,7 @@
     <string name="app_name">Tuanis Maps</string>
     <string name="et_contrasena">Ingrese su Contraseña</string>
     <string name="et_correo">Ingrese su correo</string>
+    <string name="et_nombre">Ingrese su Nombre</string>
     <string name="btn_registrar">Crear Cuenta</string>
+    <string name="btn_registrarGoogle">Acceder con Google</string>
 </resources>
