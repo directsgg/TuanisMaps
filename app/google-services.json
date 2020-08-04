@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116443110795",
+    "firebase_url": "https://mapsbikersgt.firebaseio.com",
+    "project_id": "mapsbikersgt",
+    "storage_bucket": "mapsbikersgt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116443110795:android:a13634e79f95e95178638e",
+        "android_client_info": {
+          "package_name": "app.web.mapsbikersgt.tuanismaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116443110795-oeo51ur62ooiq5rg7ncfbr4p49qh20v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.web.mapsbikersgt.tuanismaps",
+            "certificate_hash": "2f6866e147d4824ecb24cdd10e6556d225896dea"
+          }
+        },
+        {
+          "client_id": "116443110795-l1u2vj18n9gdp7ifh479nqk969rq9m1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPBfx1eHZmv9Qql2Q7AztpOF7aIMq69s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116443110795-l1u2vj18n9gdp7ifh479nqk969rq9m1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
